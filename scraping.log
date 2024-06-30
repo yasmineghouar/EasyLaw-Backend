@@ -1,0 +1,2615 @@
+2024-05-19 07:03:10,690 - Script de scraping démarré
+2024-05-19 07:04:29,104 - Timeout occurred while waiting for elements.
+2024-05-19 07:04:29,104 - Script de scraping terminé
+2024-05-19 07:06:57,174 - Script de scraping démarré
+2024-05-19 07:07:39,020 - Script de scraping terminé
+2024-05-20 07:07:21,358 - Script de scraping démarré
+2024-05-20 07:08:02,650 - Script de scraping terminé
+2024-05-20 07:08:12,798 - Script de scraping démarré
+2024-05-20 07:09:43,096 - Timeout occurred while waiting for elements.
+2024-05-20 07:09:43,096 - Script de scraping terminé
+2024-05-20 13:22:00,100 - Script de scraping démarré
+2024-05-20 13:23:34,240 - Timeout occurred while waiting for elements.
+2024-05-20 13:23:34,241 - Script de scraping terminé
+2024-05-20 13:37:31,481 - Script de scraping démarré
+2024-05-20 13:38:57,469 - Timeout occurred while waiting for elements.
+2024-05-20 13:38:57,469 - Script de scraping terminé
+2024-05-20 13:40:19,459 - Script de scraping démarré
+2024-05-20 13:40:19,462 - Script de scraping démarré
+2024-05-20 13:41:07,890 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=124.0.2478.105)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E78A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00E6103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 13:41:07,890 - Script de scraping terminé
+2024-05-20 13:41:45,938 - Timeout occurred while waiting for elements.
+2024-05-20 13:41:45,939 - Script de scraping terminé
+2024-05-20 13:51:32,110 - Script de scraping démarré
+2024-05-20 13:51:32,112 - Deux arguments de date sont nécessaires: datedebut et dateEnd.
+2024-05-20 13:54:00,287 - Script de scraping démarré
+2024-05-20 13:54:00,288 - Deux arguments de date sont nécessaires: datedebut et dateEnd.
+2024-05-20 13:54:31,450 - Script de scraping démarré
+2024-05-20 13:54:31,451 - Deux arguments de date sont nécessaires: datedebut et dateEnd.
+2024-05-20 15:40:01,369 - Script de scraping démarré
+2024-05-20 15:41:28,859 - Timeout occurred while waiting for elements.
+2024-05-20 15:41:28,861 - Script de scraping terminé
+2024-05-20 15:50:23,786 - Script de scraping démarré
+2024-05-20 15:51:48,202 - Timeout occurred while waiting for elements.
+2024-05-20 15:51:48,202 - Script de scraping terminé
+2024-05-20 16:21:24,490 - Script de scraping démarré
+2024-05-20 16:22:38,194 - Timeout occurred while waiting for elements.
+2024-05-20 16:22:38,195 - Script de scraping terminé
+2024-05-20 16:49:02,826 - Script de scraping démarré
+2024-05-20 16:50:01,262 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E78A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00E6103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 16:50:01,270 - Script de scraping terminé
+2024-05-20 16:50:07,872 - Script de scraping démarré
+2024-05-20 16:50:47,792 - Script de scraping terminé
+2024-05-20 16:52:18,453 - Script de scraping démarré
+2024-05-20 16:53:02,177 - Script de scraping terminé
+2024-05-20 18:20:08,625 - Script de scraping démarré
+2024-05-20 18:20:50,620 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E78A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00E6103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 18:20:50,621 - Script de scraping terminé
+2024-05-20 18:30:19,275 - Script de scraping démarré
+2024-05-20 18:31:01,246 - Script de scraping terminé
+2024-05-20 18:44:35,206 - Script de scraping démarré
+2024-05-20 18:45:22,248 - Script de scraping terminé
+2024-05-20 18:55:46,226 - Script de scraping démarré
+2024-05-20 18:56:27,602 - Script de scraping terminé
+2024-05-20 18:58:42,864 - Script de scraping démarré
+2024-05-20 18:59:19,427 - Script de scraping terminé
+2024-05-20 19:06:49,002 - Script de scraping démarré
+2024-05-20 19:07:27,669 - Script de scraping terminé
+2024-05-20 19:10:24,425 - Script de scraping démarré
+2024-05-20 19:11:07,355 - Script de scraping terminé
+2024-05-20 19:16:30,760 - Script de scraping démarré
+2024-05-20 19:17:06,610 - Script de scraping terminé
+2024-05-20 20:31:15,257 - Script de scraping démarré
+2024-05-20 20:31:55,388 - Script de scraping terminé
+2024-05-20 20:32:04,278 - Script de scraping démarré
+2024-05-20 20:32:41,772 - Script de scraping terminé
+2024-05-20 20:38:04,938 - Script de scraping démarré
+2024-05-20 20:38:15,959 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E788DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E74AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E802C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E83336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E80060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 20:38:15,959 - Script de scraping terminé
+2024-05-20 21:00:57,207 - Script de scraping démarré
+2024-05-20 21:01:28,006 - Script de scraping terminé
+2024-05-20 21:02:26,069 - Script de scraping démarré
+2024-05-20 21:02:59,307 - Script de scraping terminé
+2024-05-20 21:03:19,557 - Script de scraping démarré
+2024-05-20 21:04:27,893 - Timeout occurred while waiting for elements.
+2024-05-20 21:04:27,893 - Script de scraping terminé
+2024-05-20 21:11:19,829 - Script de scraping démarré
+2024-05-20 21:13:40,686 - Timeout occurred while waiting for elements.
+2024-05-20 21:13:40,686 - Script de scraping terminé
+2024-05-20 21:13:59,120 - Script de scraping démarré
+2024-05-20 21:14:15,753 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E788DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E74AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E802C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E83336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E80060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 21:14:15,753 - Script de scraping terminé
+2024-05-20 21:15:33,538 - Script de scraping démarré
+2024-05-20 21:16:20,308 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E78A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00E6103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 21:16:20,308 - Script de scraping terminé
+2024-05-20 21:16:29,983 - Script de scraping démarré
+2024-05-20 21:16:45,282 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01190483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01067F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E788DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E74AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E802C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E83336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00E6ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00E80060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00ED636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EC15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00EA48CD+76605]
+	GetHandleVerifier [0x0128476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x013557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01355157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0134A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x013561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0107AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01070B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0105B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 21:16:45,282 - Script de scraping terminé
+2024-05-20 22:26:23,258 - Script de scraping démarré
+2024-05-20 22:26:28,732 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x006B103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00718513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00725E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 22:26:28,733 - Script de scraping terminé
+2024-05-20 22:26:31,643 - Script de scraping démarré
+2024-05-20 22:26:38,392 - Script de scraping démarré
+2024-05-20 22:26:44,501 - An unexpected error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BC832+17922]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BC07D+15949]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BBC08+14808]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BBAE6+14518]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BAD4E+11038]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0072658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 22:26:44,501 - Script de scraping terminé
+2024-05-20 22:26:45,964 - Script de scraping démarré
+2024-05-20 22:26:53,294 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BBAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006C4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BB07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0072658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 22:26:53,294 - Script de scraping terminé
+2024-05-20 22:27:15,713 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BBAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006C4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BB07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x006BACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006D0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0072658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 22:27:15,714 - Script de scraping terminé
+2024-05-20 22:33:20,631 - Script de scraping démarré
+2024-05-20 22:35:16,872 - Timeout occurred while waiting for elements.
+2024-05-20 22:35:16,872 - Script de scraping terminé
+2024-05-20 22:35:58,234 - Script de scraping démarré
+2024-05-20 22:36:14,053 - Script de scraping démarré
+2024-05-20 22:36:19,012 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x006B103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00718513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00725E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 22:36:19,013 - Script de scraping terminé
+2024-05-20 22:38:13,931 - Timeout occurred while waiting for elements.
+2024-05-20 22:38:13,939 - Script de scraping terminé
+2024-05-20 22:51:21,331 - Script de scraping démarré
+2024-05-20 22:52:06,989 - Script de scraping terminé
+2024-05-20 23:32:22,605 - Script de scraping démarré
+2024-05-20 23:32:39,699 - An unexpected error occurred: Alert Text: JJ/MM/AAAA تاريخ الجريدة على الشكل
+Message: unexpected alert open: {Alert text : JJ/MM/AAAA تاريخ الجريدة على الشكل}
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007262B4+279844]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 23:32:39,700 - Script de scraping terminé
+2024-05-20 23:32:46,745 - Script de scraping démarré
+2024-05-20 23:32:55,805 - An unexpected error occurred: Alert Text: JJ/MM/AAAA تاريخ الجريدة على الشكل
+Message: unexpected alert open: {Alert text : JJ/MM/AAAA تاريخ الجريدة على الشكل}
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007262B4+279844]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 23:32:55,806 - Script de scraping terminé
+2024-05-20 23:33:27,983 - Script de scraping démarré
+2024-05-20 23:33:38,630 - An unexpected error occurred: Alert Text: JJ/MM/AAAA تاريخ الجريدة على الشكل
+Message: unexpected alert open: {Alert text : JJ/MM/AAAA تاريخ الجريدة على الشكل}
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007262B4+279844]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 23:33:38,630 - Script de scraping terminé
+2024-05-20 23:33:46,765 - Script de scraping démarré
+2024-05-20 23:33:57,066 - An unexpected error occurred: Alert Text: JJ/MM/AAAA تاريخ الجريدة على الشكل
+Message: unexpected alert open: {Alert text : JJ/MM/AAAA تاريخ الجريدة على الشكل}
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007262B4+279844]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 23:33:57,066 - Script de scraping terminé
+2024-05-20 23:38:03,943 - Script de scraping démarré
+2024-05-20 23:39:04,168 - Timeout occurred while waiting for elements.
+2024-05-20 23:39:04,168 - Script de scraping terminé
+2024-05-20 23:39:17,803 - Script de scraping démarré
+2024-05-20 23:40:07,191 - Timeout occurred while waiting for elements.
+2024-05-20 23:40:07,192 - Script de scraping terminé
+2024-05-20 23:52:24,078 - Script de scraping démarré
+2024-05-20 23:53:21,050 - Script de scraping terminé
+2024-05-20 23:54:56,067 - Script de scraping démarré
+2024-05-20 23:55:32,242 - Script de scraping terminé
+2024-05-20 23:55:48,072 - Script de scraping démarré
+2024-05-20 23:55:55,387 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x009E0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008B7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x006C8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x006B103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00718513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00725E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006F48CD+76605]
+	GetHandleVerifier [0x00AD476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00BA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00BA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00B9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00BA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008CAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008C0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x008AB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-20 23:55:55,387 - Script de scraping terminé
+2024-05-21 00:09:35,147 - Script de scraping démarré
+2024-05-21 00:10:08,635 - Script de scraping terminé
+2024-05-21 00:10:44,387 - Script de scraping démarré
+2024-05-21 00:11:24,337 - Script de scraping terminé
+2024-05-21 00:11:26,397 - Script de scraping démarré
+2024-05-21 00:12:40,669 - Timeout occurred while waiting for elements.
+2024-05-21 00:12:40,670 - Script de scraping terminé
+2024-05-21 00:17:52,687 - Script de scraping démarré
+2024-05-21 00:19:01,334 - Timeout occurred while waiting for elements.
+2024-05-21 00:19:01,335 - Script de scraping terminé
+2024-05-21 00:20:12,623 - Script de scraping démarré
+2024-05-21 00:21:16,693 - Timeout occurred while waiting for elements.
+2024-05-21 00:21:16,695 - Script de scraping terminé
+2024-05-21 06:49:53,438 - Script de scraping démarré
+2024-05-21 06:50:50,302 - Timeout occurred while waiting for elements.
+2024-05-21 06:50:50,302 - Script de scraping terminé
+2024-05-21 06:59:23,300 - Script de scraping démarré
+2024-05-21 07:00:12,726 - Timeout occurred while waiting for elements.
+2024-05-21 07:00:12,726 - Script de scraping terminé
+2024-05-21 07:10:48,989 - Script de scraping démarré
+2024-05-21 07:12:09,858 - Timeout occurred while waiting for elements.
+2024-05-21 07:12:09,866 - Script de scraping terminé
+2024-05-21 07:14:04,133 - Script de scraping démarré
+2024-05-21 07:15:24,353 - Timeout occurred while waiting for elements.
+2024-05-21 07:15:24,353 - Script de scraping terminé
+2024-05-21 07:26:53,349 - Script de scraping démarré
+2024-05-21 07:27:58,808 - Timeout occurred while waiting for elements.
+2024-05-21 07:27:58,808 - Script de scraping terminé
+2024-05-21 07:30:25,301 - Script de scraping démarré
+2024-05-21 07:31:27,553 - Timeout occurred while waiting for elements.
+2024-05-21 07:31:27,553 - Script de scraping terminé
+2024-05-21 07:32:30,099 - Script de scraping démarré
+2024-05-21 07:32:38,619 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x012B0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01187F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00F988DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F94AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FF658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FE15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC48CD+76605]
+	GetHandleVerifier [0x013A476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x014757D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01475157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0146A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x014761AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0119AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0117B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-21 07:32:38,619 - Script de scraping terminé
+2024-05-21 07:32:41,109 - Script de scraping démarré
+2024-05-21 07:33:56,696 - Timeout occurred while waiting for elements.
+2024-05-21 07:33:56,696 - Script de scraping terminé
+2024-05-21 07:41:03,508 - Script de scraping démarré
+2024-05-21 07:41:55,261 - Timeout occurred while waiting for elements.
+2024-05-21 07:41:55,261 - Script de scraping terminé
+2024-05-21 07:47:23,804 - Script de scraping démarré
+2024-05-21 07:48:29,797 - Timeout occurred while waiting for elements.
+2024-05-21 07:48:29,797 - Script de scraping terminé
+2024-05-21 07:58:49,814 - Script de scraping démarré
+2024-05-21 07:59:27,039 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x012B0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01187F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00F988DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F94AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FF658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FE15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC48CD+76605]
+	GetHandleVerifier [0x013A476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x014757D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01475157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0146A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x014761AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0119AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0117B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-21 07:59:27,040 - Script de scraping terminé
+2024-05-21 07:59:30,845 - Script de scraping démarré
+2024-05-21 07:59:35,010 - An unexpected error occurred: Message: no such execution context
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x012B0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01187F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00F988DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8B60A+13274]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A60C+9180]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F94EDA+52394]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FF636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FE15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC48CD+76605]
+	GetHandleVerifier [0x013A476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x014757D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01475157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0146A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x014761AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0119AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0117B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-21 07:59:35,010 - Script de scraping terminé
+2024-05-21 09:08:42,141 - Script de scraping démarré
+2024-05-21 09:08:46,217 - An unexpected error occurred: Message: no such execution context
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x012B0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01187F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00F988DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8B60A+13274]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A60C+9180]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F94EDA+52394]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00F8ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00FA0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FF636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FE15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00FC48CD+76605]
+	GetHandleVerifier [0x013A476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x014757D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01475157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0146A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x014761AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0119AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x01190B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0117B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-21 09:08:46,218 - Script de scraping terminé
+2024-05-21 09:09:00,669 - Script de scraping démarré
+2024-05-21 09:10:07,918 - Timeout occurred while waiting for elements.
+2024-05-21 09:10:07,918 - Script de scraping terminé
+2024-05-21 10:08:04,804 - Script de scraping démarré
+2024-05-21 10:08:12,034 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x004B0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00387F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00198A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0018103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001F5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001C4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001C3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001C48CD+76605]
+	GetHandleVerifier [0x005A476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006757D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00675157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0066A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006761AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0039AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00390A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00390B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0037B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-05-21 10:08:12,035 - Script de scraping terminé
+2024-05-21 10:08:27,362 - Script de scraping démarré
+2024-05-21 10:09:27,957 - Timeout occurred while waiting for elements.
+2024-05-21 10:09:27,958 - Script de scraping terminé
+2024-05-21 10:28:19,981 - Script de scraping démarré
+2024-05-21 10:28:39,847 - An unexpected error occurred: 'NoneType' object has no attribute 'is_displayed'
+2024-05-21 10:28:39,847 - Script de scraping terminé
+2024-05-21 10:29:42,136 - Script de scraping démarré
+2024-05-21 10:30:05,881 - An unexpected error occurred: 'NoneType' object has no attribute 'is_displayed'
+2024-05-21 10:30:05,881 - Script de scraping terminé
+2024-05-21 10:30:21,849 - Script de scraping démarré
+2024-05-21 10:31:15,680 - Timeout occurred while waiting for elements.
+2024-05-21 10:31:15,680 - Script de scraping terminé
+2024-05-21 11:03:07,207 - Script de scraping démarré
+2024-05-21 11:03:45,087 - Timeout occurred while waiting for elements.
+2024-05-21 11:03:45,087 - Script de scraping terminé
+2024-05-21 11:04:05,276 - Script de scraping démarré
+2024-05-21 11:04:42,431 - Timeout occurred while waiting for elements.
+2024-05-21 11:04:42,431 - Script de scraping terminé
+2024-05-21 11:04:55,491 - Script de scraping démarré
+2024-05-21 11:05:34,245 - Timeout occurred while waiting for elements.
+2024-05-21 11:05:34,245 - Script de scraping terminé
+2024-05-21 11:18:12,693 - Script de scraping démarré
+2024-05-21 11:18:50,164 - Timeout occurred while waiting for elements.
+2024-05-21 11:18:50,164 - Script de scraping terminé
+2024-05-21 12:41:46,406 - Script de scraping démarré
+2024-05-21 12:42:01,086 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x00930483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00807F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00618A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0060103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00668513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00675E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006615F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00644EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00643EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006448CD+76605]
+	GetHandleVerifier [0x00A2476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AF57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AF5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AEA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AF61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0081AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00810A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00810B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007FB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-21 12:42:01,087 - Script de scraping terminé
+2024-05-22 11:40:07,040 - Script de scraping démarré
+2024-05-22 11:41:48,941 - Timeout occurred while waiting for elements.
+2024-05-22 11:41:48,941 - Script de scraping terminé
+2024-05-22 11:43:23,718 - Script de scraping démarré
+2024-05-22 11:44:52,023 - Timeout occurred while waiting for elements.
+2024-05-22 11:44:52,023 - Script de scraping terminé
+2024-05-22 12:41:05,332 - Script de scraping démarré
+2024-05-22 12:41:33,966 - Script de scraping terminé
+2024-05-22 17:30:54,637 - Script de scraping démarré
+2024-05-22 17:32:28,784 - Timeout occurred while waiting for elements.
+2024-05-22 17:32:28,784 - Script de scraping terminé
+2024-05-22 17:41:57,289 - Script de scraping démarré
+2024-05-22 17:42:11,524 - Script de scraping démarré
+2024-05-22 17:48:22,586 - Timeout occurred while waiting for elements.
+2024-05-22 17:48:22,586 - Script de scraping terminé
+2024-05-24 10:14:35,330 - Script de scraping démarré
+2024-05-24 10:16:07,551 - Timeout occurred while waiting for elements.
+2024-05-24 10:16:07,552 - Script de scraping terminé
+2024-05-24 10:16:20,377 - Script de scraping démarré
+2024-05-24 10:16:35,358 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01080483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F57F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D68A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D5103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DC5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D94EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D93EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D948CD+76605]
+	GetHandleVerifier [0x0117476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012457D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01245157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0123A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012461AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F6AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F4B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 10:16:35,358 - Script de scraping terminé
+2024-05-24 10:16:51,988 - Script de scraping démarré
+2024-05-24 10:17:02,646 - An unexpected error occurred: 'NoneType' object has no attribute 'is_displayed'
+2024-05-24 10:17:02,647 - Script de scraping terminé
+2024-05-24 10:18:33,050 - Script de scraping démarré
+2024-05-24 10:18:41,747 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01080483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F57F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D688DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D64AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D704A8+34952]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DC6505+280437]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D94EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D93EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D948CD+76605]
+	GetHandleVerifier [0x0117476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012457D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01245157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0123A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012461AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F6AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F4B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 10:18:41,747 - Script de scraping terminé
+2024-05-24 10:42:48,441 - Script de scraping démarré
+2024-05-24 10:43:02,185 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x01080483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F57F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D68A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D5103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DC5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D94EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D93EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D948CD+76605]
+	GetHandleVerifier [0x0117476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012457D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01245157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0123A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012461AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F6AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F4B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 10:43:02,187 - Script de scraping terminé
+2024-05-24 14:44:46,418 - Script de scraping démarré
+2024-05-24 14:45:30,690 - Script de scraping terminé
+2024-05-24 14:49:24,482 - Script de scraping démarré
+2024-05-24 14:50:06,505 - Script de scraping terminé
+2024-05-24 16:04:04,629 - Script de scraping démarré
+2024-05-24 16:04:18,323 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x00550483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00427F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00238A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0022103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00288513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00295E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x002815F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00264EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00263EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x002648CD+76605]
+	GetHandleVerifier [0x0064476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x007157D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00715157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0070A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x007161AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0043AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00430A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00430B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0041B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 16:04:18,323 - Script de scraping terminé
+2024-05-24 16:20:09,562 - Script de scraping démarré
+2024-05-24 16:20:16,406 - Script de scraping démarré
+2024-05-24 16:20:20,207 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x00DE0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CB7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00AC88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00ABBAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00ABA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00ABA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00AC4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00AD02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00AD3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00ABB07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00ABACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00AD0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00B2636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00B115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00AF4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00AF3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00AF48CD+76605]
+	GetHandleVerifier [0x00ED476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00FA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00FA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00F9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00FA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CCAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CC0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CC0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CAB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 16:20:20,207 - Script de scraping terminé
+2024-05-24 16:20:21,918 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x00DE0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CB7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00AC8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00AB103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00B18513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00B25E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00B115F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00AF4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00AF3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00AF48CD+76605]
+	GetHandleVerifier [0x00ED476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00FA57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00FA5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00F9A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00FA61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CCAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CC0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CC0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00CAB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 16:20:21,919 - Script de scraping terminé
+2024-05-24 17:51:46,186 - Script de scraping démarré
+2024-05-24 17:52:11,230 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x010F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FC7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DD8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00DC103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E28513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E35E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E04EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E03EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E048CD+76605]
+	GetHandleVerifier [0x011E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012B57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x012B5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x012AA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012B61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FDAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FD0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FD0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FBB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-24 17:52:11,230 - Script de scraping terminé
+2024-05-24 17:55:42,137 - Script de scraping démarré
+2024-05-24 18:11:21,730 - Timeout occurred while waiting for elements.
+2024-05-24 18:11:21,731 - Script de scraping terminé
+2024-05-25 18:22:27,672 - Script de scraping démarré
+2024-05-25 18:22:48,228 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.51)
+Stacktrace:
+	GetHandleVerifier [0x00D50483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00C27F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00A38A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00A2103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00A88513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00A95E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00A815F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00A64EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00A63EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00A648CD+76605]
+	GetHandleVerifier [0x00E4476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00F157D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00F15157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00F0A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00F161AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00C3AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00C30A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00C30B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00C1B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-25 18:22:48,228 - Script de scraping terminé
+2024-05-28 12:07:29,711 - Script de scraping démarré
+2024-05-28 12:07:44,387 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 12:07:44,387 - Script de scraping terminé
+2024-05-28 13:07:40,505 - Script de scraping démarré
+2024-05-28 13:08:13,232 - Script de scraping terminé
+2024-05-28 13:08:40,572 - Script de scraping démarré
+2024-05-28 13:10:34,365 - Script de scraping terminé
+2024-05-28 13:12:25,086 - Script de scraping démarré
+2024-05-28 13:14:37,934 - Timeout occurred while waiting for elements.
+2024-05-28 13:14:37,935 - Script de scraping terminé
+2024-05-28 13:16:22,342 - Script de scraping démarré
+2024-05-28 13:17:03,866 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 13:17:03,866 - Script de scraping terminé
+2024-05-28 13:17:09,409 - Script de scraping démarré
+2024-05-28 13:18:47,965 - Timeout occurred while waiting for elements.
+2024-05-28 13:18:47,969 - Script de scraping terminé
+2024-05-28 13:29:29,757 - Script de scraping démarré
+2024-05-28 13:30:54,407 - Timeout occurred while waiting for elements.
+2024-05-28 13:30:54,408 - Script de scraping terminé
+2024-05-28 15:57:32,212 - Script de scraping démarré
+2024-05-28 16:02:23,591 - Script de scraping démarré
+2024-05-28 16:02:35,821 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 16:02:35,821 - Script de scraping terminé
+2024-05-28 16:02:54,834 - Script de scraping démarré
+2024-05-28 16:02:57,851 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 16:02:57,852 - Script de scraping terminé
+2024-05-28 16:05:33,921 - Timeout occurred while waiting for elements.
+2024-05-28 16:05:33,922 - Script de scraping terminé
+2024-05-28 16:07:08,404 - Script de scraping démarré
+2024-05-28 16:10:01,563 - Timeout occurred while waiting for elements.
+2024-05-28 16:10:01,563 - Script de scraping terminé
+2024-05-28 16:17:38,451 - Script de scraping démarré
+2024-05-28 16:18:26,002 - An unexpected error occurred: Message: stale element reference: stale element not found
+  (Session info: MicrosoftEdge=125.0.2535.67); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E2A36+44566]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E2DAB+45451]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005DC5FC+18908]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005DB7B1+15249]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005DD603+23011]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005DD670+23120]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0060BD9D+106509]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0060C150+107456]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006059B1+80929]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006219D4+195652]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006056C1+80177]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00605640+80048]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00621CB4+196388]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006056C1+80177]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006363E0+280144]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 16:18:26,003 - Script de scraping terminé
+2024-05-28 16:18:31,856 - Script de scraping démarré
+2024-05-28 16:25:34,898 - Timeout occurred while waiting for elements.
+2024-05-28 16:25:34,899 - Script de scraping terminé
+2024-05-28 16:28:19,499 - Script de scraping démarré
+2024-05-28 16:29:46,691 - Timeout occurred while waiting for elements.
+2024-05-28 16:29:46,691 - Script de scraping terminé
+2024-05-28 16:36:58,556 - Script de scraping démarré
+2024-05-28 16:39:19,425 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 16:39:19,426 - Script de scraping terminé
+2024-05-28 16:39:27,484 - Script de scraping démarré
+2024-05-28 16:43:38,190 - Timeout occurred while waiting for elements.
+2024-05-28 16:43:38,190 - Script de scraping terminé
+2024-05-28 17:18:37,271 - Script de scraping démarré
+2024-05-28 17:21:39,160 - Timeout occurred while waiting for elements.
+2024-05-28 17:21:39,161 - Script de scraping terminé
+2024-05-28 17:40:15,496 - Script de scraping démarré
+2024-05-28 17:40:56,003 - Script de scraping terminé
+2024-05-28 17:42:10,061 - Script de scraping démarré
+2024-05-28 17:42:17,112 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:42:17,113 - Script de scraping terminé
+2024-05-28 17:42:20,695 - Script de scraping démarré
+2024-05-28 17:42:31,951 - An unexpected error occurred: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2024-05-28 17:42:31,951 - Script de scraping terminé
+2024-05-28 17:42:36,022 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B4C3999D0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/701398dc604d6c49d850b735e55f01d1
+2024-05-28 17:42:40,233 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B4C497B90>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/701398dc604d6c49d850b735e55f01d1
+2024-05-28 17:42:44,307 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000020B4C497CB0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/701398dc604d6c49d850b735e55f01d1
+2024-05-28 17:42:52,610 - Script de scraping démarré
+2024-05-28 17:42:55,796 - Script de scraping démarré
+2024-05-28 17:43:02,307 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CBAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005D4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CB07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0063658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:43:02,308 - Script de scraping terminé
+2024-05-28 17:43:04,892 - Script de scraping démarré
+2024-05-28 17:43:05,124 - An unexpected error occurred: Message: disconnected: Unable to receive message from renderer
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CBBAB+14715]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA788+9560]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C3058+59416]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C203E+55294]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C177A+53050]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00644659+338121]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0062198C+195580]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006056C1+80177]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006363E0+280144]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:43:05,125 - Script de scraping terminé
+2024-05-28 17:43:14,310 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:43:14,311 - Script de scraping terminé
+2024-05-28 17:44:34,519 - Script de scraping démarré
+2024-05-28 17:44:48,801 - An unexpected error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CC832+17922]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CC07D+15949]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CBC08+14808]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CBAE6+14518]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CAD4E+11038]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0063658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:44:48,804 - Script de scraping terminé
+2024-05-28 17:45:17,696 - Script de scraping démarré
+2024-05-28 17:45:24,175 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:45:24,176 - Script de scraping terminé
+2024-05-28 17:45:53,670 - Script de scraping démarré
+2024-05-28 17:45:55,847 - Script de scraping démarré
+2024-05-28 17:45:59,930 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CBAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005D4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CB07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0063658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:46:00,037 - Script de scraping terminé
+2024-05-28 17:46:04,791 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:46:04,791 - Script de scraping terminé
+2024-05-28 17:46:37,957 - Script de scraping démarré
+2024-05-28 17:47:00,787 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:47:00,788 - Script de scraping terminé
+2024-05-28 17:47:04,945 - Script de scraping démarré
+2024-05-28 17:47:10,707 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CBAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CA7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005D4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CB07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x005CACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005E0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x0063658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:47:10,708 - Script de scraping terminé
+2024-05-28 17:48:37,612 - Script de scraping démarré
+2024-05-28 17:48:43,016 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x008F0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007C7F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x005D8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x005C103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00628513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00635E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006215F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00604EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00603EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x006048CD+76605]
+	GetHandleVerifier [0x009E476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00AB57D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00AB5157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00AAA090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00AB61AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007DAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007D0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x007BB214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-28 17:48:43,017 - Script de scraping terminé
+2024-05-29 06:02:20,427 - Script de scraping démarré
+2024-05-29 06:02:45,132 - Script de scraping démarré
+2024-05-29 06:02:55,270 - An unexpected error occurred: Message: disconnected: received Inspector.detached event
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x01080483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F57F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D68A10+3568]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5C832+17922]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5C07D+15949]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5BC08+14808]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5BAE6+14518]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5AD4E+11038]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D70060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DC658B+280571]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D94EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D93EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D948CD+76605]
+	GetHandleVerifier [0x0117476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012457D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01245157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0123A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012461AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F6AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F4B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-29 06:02:55,270 - Script de scraping terminé
+2024-05-29 06:03:13,575 - An unexpected error occurred: 'NoneType' object is not iterable
+2024-05-29 06:03:13,605 - Script de scraping terminé
+2024-05-29 06:16:12,972 - Script de scraping démarré
+2024-05-29 06:16:57,851 - Script de scraping terminé
+2024-05-29 06:17:11,520 - Script de scraping démarré
+2024-05-29 06:17:47,811 - Script de scraping terminé
+2024-05-29 06:19:24,600 - Script de scraping démarré
+2024-05-29 06:20:01,955 - Script de scraping terminé
+2024-05-29 06:20:21,921 - Script de scraping démarré
+2024-05-29 06:21:00,232 - Script de scraping terminé
+2024-05-29 06:23:48,432 - Script de scraping démarré
+2024-05-29 06:23:52,796 - An unexpected error occurred: Message: no such execution context
+  (Session info: MicrosoftEdge=125.0.2535.67)
+Stacktrace:
+	GetHandleVerifier [0x01080483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F57F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D688DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5B60A+13274]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5A60C+9180]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D64EDA+52394]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D702C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D73336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D5ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00D70060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DC636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DB15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D94EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D93EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00D948CD+76605]
+	GetHandleVerifier [0x0117476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012457D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01245157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0123A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012461AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F6AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F60B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F4B214+349684]
+	BaseThreadInitThunk [0x76F7FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x771C7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x771C7C2E+238]
+
+2024-05-29 06:23:52,796 - Script de scraping terminé
+2024-05-29 06:24:02,671 - Script de scraping démarré
+2024-05-29 06:27:58,546 - Timeout occurred while waiting for elements.
+2024-05-29 06:27:58,547 - Script de scraping terminé
+2024-05-29 06:29:08,081 - Script de scraping démarré
+2024-05-29 06:29:47,790 - Script de scraping terminé
+2024-05-29 11:02:24,757 - Script de scraping démarré
+2024-05-29 11:03:08,101 - Script de scraping terminé
+2024-06-11 12:27:09,916 - Script de scraping démarré
+2024-06-11 12:29:00,610 - Timeout occurred while waiting for elements.
+2024-06-11 12:29:00,610 - Script de scraping terminé
+2024-06-11 12:33:50,862 - Script de scraping démarré
+2024-06-11 12:34:05,242 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 12:34:05,242 - Script de scraping terminé
+2024-06-11 12:34:08,921 - Script de scraping démarré
+2024-06-11 12:35:58,188 - Timeout occurred while waiting for elements.
+2024-06-11 12:35:58,188 - Script de scraping terminé
+2024-06-11 15:22:51,083 - Script de scraping démarré
+2024-06-11 15:23:05,494 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 15:23:05,494 - Script de scraping terminé
+2024-06-11 18:58:04,230 - Script de scraping démarré
+2024-06-11 18:58:09,840 - Script de scraping démarré
+2024-06-11 18:58:17,604 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 18:58:17,604 - Script de scraping terminé
+2024-06-11 18:58:21,676 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 18:58:21,684 - Script de scraping terminé
+2024-06-11 18:58:24,485 - Script de scraping démarré
+2024-06-11 18:58:47,569 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 18:58:47,569 - Script de scraping terminé
+2024-06-11 18:58:57,805 - Script de scraping démarré
+2024-06-11 18:59:05,712 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 18:59:05,712 - Script de scraping terminé
+2024-06-11 19:52:58,944 - Script de scraping démarré
+2024-06-11 19:53:12,365 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 19:53:12,366 - Script de scraping terminé
+2024-06-11 22:13:36,726 - Script de scraping démarré
+2024-06-11 22:14:04,266 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-11 22:14:04,266 - Script de scraping terminé
+2024-06-12 01:28:23,867 - Script de scraping démarré
+2024-06-12 01:28:38,432 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 01:28:38,432 - Script de scraping terminé
+2024-06-12 03:07:08,168 - Script de scraping démarré
+2024-06-12 03:07:19,561 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 03:07:19,561 - Script de scraping terminé
+2024-06-12 04:02:00,099 - Script de scraping démarré
+2024-06-12 04:02:14,128 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 04:02:14,128 - Script de scraping terminé
+2024-06-12 04:32:41,965 - Script de scraping démarré
+2024-06-12 04:32:56,407 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x001888DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00184AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x001902C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00193336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00190060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 04:32:56,563 - Script de scraping terminé
+2024-06-12 04:51:33,802 - Script de scraping démarré
+2024-06-12 04:51:54,345 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 04:51:54,345 - Script de scraping terminé
+2024-06-12 05:29:03,175 - Script de scraping démarré
+2024-06-12 05:29:27,695 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 05:29:27,696 - Script de scraping terminé
+2024-06-12 05:42:10,887 - Script de scraping démarré
+2024-06-12 05:42:17,925 - An unexpected error occurred: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00185B69+55609]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017BE53+15395]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017CD6F+19263]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017C0AF+15999]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017BC08+14808]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017BAE6+14518]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x0017A6CB+9371]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x0018A8E4+11460]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E674D+281021]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D198C+195580]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B56C1+80177]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E63E0+280144]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 05:42:17,925 - Script de scraping terminé
+2024-06-12 05:42:26,404 - Script de scraping démarré
+2024-06-12 05:42:36,025 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 05:42:36,026 - Script de scraping terminé
+2024-06-12 08:56:01,634 - Script de scraping démarré
+2024-06-12 08:56:15,967 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x004A0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00377F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00188A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0017103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001E5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001D15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x001B48CD+76605]
+	GetHandleVerifier [0x0059476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x006657D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00665157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0065A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x006661AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0038AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00380B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0036B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+	(No symbol) [0x00000000]
+
+2024-06-12 08:56:15,968 - Script de scraping terminé
+2024-06-12 10:14:56,529 - Script de scraping démarré
+2024-06-12 10:15:25,846 - An unexpected error occurred: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2024-06-12 10:15:25,846 - Script de scraping terminé
+2024-06-12 10:15:30,613 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D045CD2DE0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/5b5b5f5b48775656f51aa5381783a6ee
+2024-06-12 10:15:35,002 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D045CD30E0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/5b5b5f5b48775656f51aa5381783a6ee
+2024-06-12 10:15:39,062 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001D045CD3290>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/5b5b5f5b48775656f51aa5381783a6ee
+2024-06-12 10:29:37,191 - Script de scraping démarré
+2024-06-12 10:30:14,618 - Timeout occurred while waiting for elements.
+2024-06-12 10:30:14,618 - Script de scraping terminé
+2024-06-12 11:06:13,445 - Script de scraping démarré
+2024-06-12 11:06:27,279 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x00A90483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00967F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00778A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0076103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007C8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007D5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007C15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007A4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007A3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007A48CD+76605]
+	GetHandleVerifier [0x00B8476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00C557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00C55157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00C4A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00C561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0097AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00970A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00970B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0095B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 11:06:27,280 - Script de scraping terminé
+2024-06-12 11:06:51,480 - Script de scraping démarré
+2024-06-12 11:07:20,071 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x00A90483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00967F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00778A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x0076103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007C8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007D5E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007C15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007A4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007A3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x007A48CD+76605]
+	GetHandleVerifier [0x00B8476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x00C557D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x00C55157+130487]
+	Microsoft::Applications::Events::FromJSON [0x00C4A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x00C561AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0097AEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00970A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00970B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x0095B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 11:07:20,072 - Script de scraping terminé
+2024-06-12 12:03:05,182 - Script de scraping démarré
+2024-06-12 12:03:33,233 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x010C0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F97F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DA8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D9103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E05E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD48CD+76605]
+	GetHandleVerifier [0x011B476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012857D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01285157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0127A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012861AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FAAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F8B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 12:03:33,241 - Script de scraping terminé
+2024-06-12 12:13:51,444 - Script de scraping démarré
+2024-06-12 12:14:11,738 - An unexpected error occurred: ('Connection aborted.', ConnectionResetError(10054, 'Une connexion existante a dû être fermée par l’hôte distant', None, 10054, None))
+2024-06-12 12:14:11,738 - Script de scraping terminé
+2024-06-12 12:14:16,077 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B69FB1BE0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/90ae6bb9404521124323f5ebbe576b0a
+2024-06-12 12:14:20,146 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B69FB2EA0>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/90ae6bb9404521124323f5ebbe576b0a
+2024-06-12 12:14:24,230 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015B69FB3050>: Failed to establish a new connection: [WinError 10061] Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée')': /session/90ae6bb9404521124323f5ebbe576b0a
+2024-06-12 12:20:23,691 - Script de scraping démarré
+2024-06-12 12:21:06,349 - Timeout occurred while waiting for elements.
+2024-06-12 12:21:06,349 - Script de scraping terminé
+2024-06-12 12:25:40,892 - Script de scraping démarré
+2024-06-12 12:25:55,102 - An unexpected error occurred: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x010C0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F97F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DA88DA+3258]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D9BAA6+14454]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D9A458+8744]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D9A7ED+9661]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00DA4AEC+51388]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DB02C8+34472]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DB3336+46870]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D9B07C+11852]
+	Microsoft::Applications::Events::ILogConfiguration::GetModules [0x00D9ACC4+10900]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DB0060+33856]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E0636C+280028]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD48CD+76605]
+	GetHandleVerifier [0x011B476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012857D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01285157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0127A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012861AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FAAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F8B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 12:25:55,102 - Script de scraping terminé
+2024-06-12 12:51:57,798 - Script de scraping démarré
+2024-06-12 12:52:36,244 - Timeout occurred while waiting for elements.
+2024-06-12 12:52:36,244 - Script de scraping terminé
+2024-06-12 14:16:04,213 - Script de scraping démarré
+2024-06-12 14:16:29,829 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x010C0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F97F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DA8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D9103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E05E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD48CD+76605]
+	GetHandleVerifier [0x011B476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012857D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01285157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0127A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012861AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FAAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F8B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 14:16:29,829 - Script de scraping terminé
+2024-06-12 14:27:20,139 - Script de scraping démarré
+2024-06-12 14:27:58,604 - Timeout occurred while waiting for elements.
+2024-06-12 14:27:58,605 - Script de scraping terminé
+2024-06-12 14:28:46,906 - Script de scraping démarré
+2024-06-12 14:29:25,510 - Timeout occurred while waiting for elements.
+2024-06-12 14:29:25,511 - Script de scraping terminé
+2024-06-12 14:48:12,873 - Script de scraping démarré
+2024-06-12 14:49:20,376 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x010C0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F97F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DA8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D9103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E05E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD48CD+76605]
+	GetHandleVerifier [0x011B476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012857D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01285157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0127A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012861AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FAAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F8B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 14:49:20,378 - Script de scraping terminé
+2024-06-12 15:32:44,558 - Script de scraping démarré
+2024-06-12 15:34:28,339 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x010C0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F97F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DA8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D9103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E05E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD48CD+76605]
+	GetHandleVerifier [0x011B476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012857D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01285157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0127A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012861AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FAAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F8B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 15:34:28,340 - Script de scraping terminé
+2024-06-12 16:15:53,221 - Script de scraping démarré
+2024-06-12 16:16:39,180 - Script de scraping terminé
+2024-06-12 16:17:00,203 - Script de scraping démarré
+2024-06-12 16:17:06,594 - Script de scraping démarré
+2024-06-12 16:17:43,460 - Script de scraping démarré
+2024-06-12 16:17:44,202 - Script de scraping terminé
+2024-06-12 16:17:47,767 - Script de scraping terminé
+2024-06-12 16:18:28,441 - An unexpected error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=125.0.2535.92)
+Stacktrace:
+	GetHandleVerifier [0x010C0483+230755]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F97F91+402289]
+	Microsoft::Applications::Events::ILogConfiguration::operator* [0x00DA8A10+3568]
+	Microsoft::Applications::Events::IAuthTokensController::~IAuthTokensController [0x00D9103C+51196]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF8513+223107]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00E05E87+278775]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DF15F6+194662]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD4EC3+78131]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD3EA5+74005]
+	Microsoft::Applications::Events::GUID_t::GUID_t [0x00DD48CD+76605]
+	GetHandleVerifier [0x011B476C+1230924]
+	Microsoft::Applications::Events::FromJSON [0x012857D2+132146]
+	Microsoft::Applications::Events::FromJSON [0x01285157+130487]
+	Microsoft::Applications::Events::FromJSON [0x0127A090+85232]
+	Microsoft::Applications::Events::FromJSON [0x012861AB+134667]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FAAEDF+479935]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0A08+437736]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00FA0B7B+438107]
+	Microsoft::Applications::Events::time_ticks_t::time_ticks_t [0x00F8B214+349684]
+	BaseThreadInitThunk [0x754CFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x775E7C5E+286]
+	RtlGetAppContainerNamedObjectPath [0x775E7C2E+238]
+
+2024-06-12 16:18:28,449 - Script de scraping terminé
+2024-06-12 16:19:09,346 - Script de scraping démarré
+2024-06-12 16:21:08,257 - Timeout occurred while waiting for elements.
+2024-06-12 16:21:08,258 - Script de scraping terminé
